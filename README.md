@@ -8,15 +8,13 @@
 
 ### 这是什么
 
-`Scene Overlay Composer` 是一组适用于 Codex 的图片合成 skills。它把人物照片与 iOS/macOS 原生界面、音乐播放器、运动记录、手绘贴纸等元素融合成编辑感画面，而不是简单把 UI 贴在角落。
+`Scene Overlay Composer` 是一组适用于 Codex 的图片合成 skills。它把人物照片与 iOS/macOS 原生界面、音乐播放器、运动记录、手绘贴纸等元素融合成编辑感创意贴图，一键快速复刻 IG 热门修图效果。
 
-核心要求：**人物始终在前景；UI/贴纸在人物身后延续；人物的头发、肩膀、衣物、包或腿部会真实遮挡元素边缘。** 脸、眼睛、手、手机和持握物必须受保护。
 
 ### 能做什么
 
 | Skill | 效果 |
 | --- | --- |
-| `scene-overlay-composer` | 根据需求将任务路由至最合适的视觉 skill。 |
 | `scene-native-ui-composer` | AirDrop、分享页、照片选择、日历、标签、窗口、文件夹和桌面。 |
 | `scene-music-overlay` | 单曲播放器、透明歌单、环绕式多播放器卡片。 |
 | `scene-activity-overlay` | 运动数据、路线、活动环与现场排版。 |
@@ -24,17 +22,10 @@
 
 ### 效果示意
 
-| 原生 UI | 音乐播放器 |
-| --- | --- |
-| ![Calendar overlay](examples/generated/02-ios-calendar-mirror.png) | ![Music player overlay](examples/generated/exec-f041fd1d-e22d-41dd-9934-46d9227d9d8c.png) |
+| 效果1 | 效果2 | 效果3 | 效果4 | 效果5 |
+| --- | --- | --- | --- |--- |
+| ![Calendar overlay](examples/generated/02-ios-calendar-mirror.png) | ![Music player overlay](examples/generated/exec-f041fd1d-e22d-41dd-9934-46d9227d9d8c.png) | ![AirDrop overlay](examples/generated/05-airdrop-seaside.png) | ![Activity overlay](examples/generated/09-trail-activity-record.png) | ![Crayon sticker overlay](examples/generated/01-crayon-aura-cafe.png) |
 
-| AirDrop | 运动记录 |
-| --- | --- |
-| ![AirDrop overlay](examples/generated/05-airdrop-seaside.png) | ![Activity overlay](examples/generated/09-trail-activity-record.png) |
-
-| 编辑贴纸 |
-| --- |
-| ![Crayon sticker overlay](examples/generated/01-crayon-aura-cafe.png) |
 
 ### 安装
 
