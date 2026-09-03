@@ -24,7 +24,7 @@
 
 | 效果1 | 效果2 | 效果3 | 效果4 | 效果5 |
 | --- | --- | --- | --- |--- |
-| ![Calendar overlay](examples/generated/02-ios-calendar-mirror.png) | ![Music player overlay](examples/generated/exec-f041fd1d-e22d-41dd-9934-46d9227d9d8c.png) | ![AirDrop overlay](examples/generated/05-airdrop-seaside.png) | ![Activity overlay](examples/generated/09-trail-activity-record.png) | ![Crayon sticker overlay](examples/generated/01-crayon-aura-cafe.png) |
+| ![Calendar overlay](examples/generated/04-macos-desktop-coast.png) | ![Music player overlay](examples/generated/exec-f041fd1d-e22d-41dd-9934-46d9227d9d8c.png) | ![AirDrop overlay](examples/generated/05-airdrop-seaside.png) | ![Activity overlay](examples/generated/09-trail-activity-record.png) | ![Crayon sticker overlay](examples/generated/01-crayon-aura-cafe.png) |
 
 
 ### 安装
