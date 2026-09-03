@@ -38,6 +38,26 @@
 
 ### 安装
 
+#### 方式 A：让 Codex 自主安装（推荐）
+
+在 Codex 对话中直接粘贴下面这段。它会调用 `$skill-installer`，从本仓库安装全部五个 skills；完成后在**下一轮对话**即可使用。
+
+```text
+$skill-installer
+请从 GitHub 仓库 https://github.com/AprilJC/scene-overlay-composer-skill 安装以下全部 Codex skills：
+- skills/scene-overlay-composer
+- skills/scene-native-ui-composer
+- skills/scene-music-overlay
+- skills/scene-activity-overlay
+- skills/scene-editorial-stickers
+
+安装完成后告诉我每个 skill 的安装目录，并提示我在下一轮对话中开始使用。
+```
+
+如果 Codex 询问是否允许从 GitHub 下载技能，选择允许即可。该安装器会把每个目录放到 `~/.codex/skills/` 下，且不会覆盖同名的已有 skill。
+
+#### 方式 B：手动安装
+
 克隆仓库后，将 `skills/` 内的五个文件夹复制到 Codex skills 目录：
 
 ```bash
@@ -112,6 +132,26 @@ The essential rule is: **the person stays in the foreground; the interface or gr
 | `scene-editorial-stickers` | Crayon doodles, stars, collage objects, and large fused stickers. |
 
 ### Install
+
+#### Option A: ask Codex to install it (recommended)
+
+Paste the prompt below in Codex. Codex will invoke `$skill-installer` and install all five skills from this repository. They will be available on the **next turn**.
+
+```text
+$skill-installer
+Install all of these Codex skills from https://github.com/AprilJC/scene-overlay-composer-skill:
+- skills/scene-overlay-composer
+- skills/scene-native-ui-composer
+- skills/scene-music-overlay
+- skills/scene-activity-overlay
+- skills/scene-editorial-stickers
+
+When finished, tell me where each skill was installed and remind me to start a new turn before using them.
+```
+
+Approve the GitHub download if Codex asks. The installer puts each skill under `~/.codex/skills/` and will not overwrite an existing skill with the same name.
+
+#### Option B: install manually
 
 Clone the repository, then copy the five folders inside `skills/` into your Codex skills directory:
 
