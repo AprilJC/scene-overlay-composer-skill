@@ -1,0 +1,5 @@
+# Source photos are local references and are not included in the public package.
+examples/original/
+
+# macOS metadata
+.DS_Store
