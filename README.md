@@ -94,13 +94,6 @@ $scene-editorial-stickers
 
 更多输入标注、层级和迭代方式见 [docs/USAGE.md](docs/USAGE.md)。
 
-### 重要规则
-
-- 主图是事实锚点：保留人物、服装、姿势、重要物品、环境、裁切与透视。
-- 有真实 UI 截图时，以它的层级、控件、间距和可见文案为准。
-- 单曲播放器默认在人物后方作为主视觉；只有脚、鞋或俯视腿部是主画面时，才可投影到地面。
-- 歌单比单曲播放器更透明；多个播放器时使用不同尺度与深度的半透明卡片围绕人物。
-- 为日历、运动、音乐等提供真实资料；不要把虚构信息伪装成真实账户或记录。
 
 ---
 
@@ -116,7 +109,6 @@ The essential rule is: **the person stays in the foreground; the interface or gr
 
 | Skill | Use it for |
 | --- | --- |
-| `scene-overlay-composer` | Route a broad overlay request to the right specialist. |
 | `scene-native-ui-composer` | AirDrop, share sheets, Photos selection, Calendar, tags, windows, folders, and desktop scenes. |
 | `scene-music-overlay` | Now-playing cards, transparent playlists, and multi-card player compositions. |
 | `scene-activity-overlay` | Workout data, routes, activity rings, and scene-native performance typography. |
@@ -189,14 +181,6 @@ their body must cover the star so it changes the silhouette instead of floating 
 ```
 
 Read [docs/USAGE.md](docs/USAGE.md) for image roles, hierarchy, depth language, and iteration guidance.
-
-### Key rules
-
-- Treat the main photo as factual: preserve the person, clothing, pose, important objects, setting, crop, and perspective.
-- When a real UI screenshot is supplied, preserve its hierarchy, controls, spacing, and visible copy.
-- A one-song player defaults to the principal background plane behind the person. Use a floor projection only when feet, footwear, or a downward-looking leg crop is compositionally primary.
-- Playlists should be more transparent than a one-song card. For multiple players, surround the subject with unequal semi-transparent cards at varied depth.
-- Provide real source material for calendars, activity metrics, and music metadata. Do not present invented information as a real account or record.
 
 ## Repository layout
 
