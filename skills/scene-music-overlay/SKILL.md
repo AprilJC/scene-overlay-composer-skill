@@ -23,7 +23,11 @@ Use a supplied player screenshot as authoritative. Otherwise choose one identifi
 
 Place all UI behind the subject when overlapping. Preserve face, eyes, hands, phone, held objects, and clothing silhouette. Anchor to a real wall/floor/mirror plane; match perspective, light, grain and reflections. A one-song hero card should be opaque-to-semi-opaque frosted glass so metadata and controls feel intentional; playlists should be more transparent; multi-card constellations should use lighter overlapping glass. Use solid panels only when supplied source requires them.
 
-Avoid equal card grids, competing music brands, waveform filler, tiny players, opaque playlist screens, floor projections when feet are not the image's primary visual, sticker shadows, generic glow, and album art that dominates the person.
+For a supplied player screenshot, preserve its outer aspect ratio and the relative geometry of cover art, title/artist block, progress bar, time labels, controls, padding, and radius. Scale the player as one coherent system; do not turn a wide player into a tall card or independently stretch/reposition its anatomy. Perspective and natural foreground occlusion are the only allowed adaptations.
+
+A single-player card normally occupies 35–60% of canvas area or 45–75% of usable background height. It must read as the main edit at thumbnail size, not as a peripheral badge.
+
+Avoid equal card grids, competing music brands, waveform filler, tiny players, opaque playlist screens, floor projections when feet are not the image's primary visual, sticker shadows, generic glow, distorted source-player proportions, and album art that dominates the person.
 
 ## Creator note
 

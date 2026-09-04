@@ -12,12 +12,13 @@ Make the movement photo the anchor. Treat data as printed, projected, or compose
 - Place data directly on sky, road, pavement, grass, wall, or broad textured ground. Do not use framed dashboards, frosted cards, app chrome, or stickers by default.
 - Build one mass: airy top grid, vertical stack, two-column side field, or oversized type grounded on pavement.
 - Use one hero value (distance, pace, time, or ring) plus 2–6 supporting values. Labels stay small; values substantially larger.
+- Make the data a primary editing mass—usually at least 35% of usable background area, or one oversized hero value that reads at thumbnail size. Never reduce it to a corner widget.
 - Let runner/shoes interrupt type naturally, but protect face, hands, movement silhouette, joints, and held objects.
 - Match grain, perspective, contrast, and substrate texture; on pavement, weather type slightly rather than making it pristine.
 
 ## Adapt supplied fitness UI
 
-Reuse actual metrics, hierarchy, accent colour, route shape, rings, and icon language, but deconstruct and recompose them directly in the photo. Show a full app screen only when explicitly requested or supported by a believable physical surface.
+Reuse actual metrics, hierarchy, accent colour, route shape, rings, and icon language, but deconstruct and recompose them directly in the photo. Show a full app screen only when explicitly requested or supported by a believable physical surface; in that case, preserve its outer aspect ratio and internal zone proportions and scale the entire screen uniformly.
 
 ## Layout choices
 

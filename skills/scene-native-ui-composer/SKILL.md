@@ -21,7 +21,7 @@ For exact supplied screenshots, preserve visible text, iconography, hierarchy, a
 
 ## Mandatory composition
 
-- Use one interface family. Hero cards occupy 30–55% of canvas; a sheet/frame may span 60–95% width.
+- Use one interface family. Hero cards occupy 35–60% of canvas; a sheet/frame may span 60–95% width.
 - **Person always foreground:** build the UI behind them. Hair, head contour, shoulder, arm, torso, clothes, bag, and/or legs must visibly occlude edges; aim for two overlaps with full-height figures.
 - Never cover face, eyes, hands, phone, held object, or decisive gesture. Do not leave UI detached in empty space.
 - A card may disappear behind shoulder then resume beside waist. A wide sheet may run behind torso and legs. A thumbnail frame can be interrupted by an arm, shoe, bag, or raised hand.
@@ -31,7 +31,9 @@ For exact supplied screenshots, preserve visible text, iconography, hierarchy, a
 
 Use recognisable rounded sheets, dividers, circular close controls, blue selection checks/action text, native type hierarchy, and macOS blue folders/context menus. Prioritise functional spacing over dense decorative copy; remove text that cannot be rendered legibly.
 
-Before return, verify: selected interface reads instantly; person is clearly in front; an edge is occluded; critical facial/hand detail is safe; text is legible or absent. For signatures, read [references/interface-scenes.md](references/interface-scenes.md).
+For a supplied UI screenshot, lock its geometry: preserve the outer aspect ratio plus the relative height/width of header, preview, margins, dividers, controls, action row, and radius. Scale it uniformly; do not stretch or rearrange components except where foreground occlusion hides an edge.
+
+Before return, verify: selected interface reads instantly; source proportions are intact; person is clearly in front; an edge is occluded; critical facial/hand detail is safe; text is legible or absent; and the UI remains obvious at thumbnail size. For signatures, read [references/interface-scenes.md](references/interface-scenes.md).
 
 ## Creator note
 

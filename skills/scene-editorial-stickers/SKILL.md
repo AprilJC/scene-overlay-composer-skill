@@ -7,6 +7,8 @@ description: Add bold hand-drawn, scrapbook, camera-object, or graphic-sticker e
 
 Treat stickers as expressive drawing or physical collage, never generic app UI. Select one material grammar and one colour family drawn from the photo or supplied style reference.
 
+When the user has not named a sticker type, first read the subject/background relationship, scene theme, usable plane, material texture, and palette. Choose crayon/marker only when the photo or reference has an intentional playful handmade cue; use printed/dot illustration for graphic negative space, physical collage for tactile/object-led scenes, and labels only for actual social/context cues. If no grammar is clearly supported, ask for direction rather than defaulting to crayon.
+
 ## Choose one grammar
 
 - **Crayon/marker aura:** imperfect thick lines orbit/frame the person with a limited star/flower/short-handwriting constellation.
